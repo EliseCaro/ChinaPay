@@ -1,5 +1,5 @@
 # ChinaPay
-Golang上海银联电子（ChinaPay）支付签名demo；
+Golang上海银联（ChinaPay）电子支付签名demo
 
 ## 使用前请阅读
 > 为何开源此DEMO？
